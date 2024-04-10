@@ -1,0 +1,6 @@
+C:\Users\Edita\Desktop\007\AddinWithTaskpane\WarningAndErrorService\bin\Debug\WarningAndErrorService.dll
+C:\Users\Edita\Desktop\007\AddinWithTaskpane\WarningAndErrorService\bin\Debug\WarningAndErrorService.pdb
+C:\Users\Edita\Desktop\007\AddinWithTaskpane\WarningAndErrorService\obj\Debug\WarningAndErrorService.csproj.AssemblyReference.cache
+C:\Users\Edita\Desktop\007\AddinWithTaskpane\WarningAndErrorService\obj\Debug\WarningAndErrorService.csproj.CoreCompileInputs.cache
+C:\Users\Edita\Desktop\007\AddinWithTaskpane\WarningAndErrorService\obj\Debug\WarningAndErrorService.dll
+C:\Users\Edita\Desktop\007\AddinWithTaskpane\WarningAndErrorService\obj\Debug\WarningAndErrorService.pdb
